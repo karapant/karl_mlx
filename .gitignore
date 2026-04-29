@@ -1,0 +1,25 @@
+# Cloned reference repo
+karl/
+
+# Paper PDF
+paper/
+
+# Generated outputs
+output_karl_mlx/
+output_karl_mlx_finetune/
+output_karl_vanilla/
+results/
+results_network/
+eval_images/
+
+# Downloaded data
+sample_images/
+
+# Pretrained model weights
+*.ckpt
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+.venv/
